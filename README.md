@@ -1,1 +1,1 @@
-# Einzelprojekt-UE-Software-Engineering-II-25S
+# se2-einzelabgabe-service
